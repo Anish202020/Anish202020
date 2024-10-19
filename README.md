@@ -1,44 +1,72 @@
-# Hi there, I'm [Anish Kumar] 👋
+# Hi there, I'm [Your Name] 👋
 
-### 🚀 Full Stack Developer | 💡 Machine Learning Enthusiast | 🌐 Open Source Contributor
+![Welcome GIF](https://media.giphy.com/media/l3vQXT7mlj3z7ZZX2/giphy.gif)
 
----
+## 🚀 Full Stack Developer | 💡 Machine Learning Enthusiast | 🌐 Open Source Contributor
 
-## 🔭 About Me:
-I am a passionate **Full Stack Developer** and **Machine Learning Developer** with experience in building dynamic web applications and developing intelligent systems. My expertise lies in building scalable, user-centric web platforms and applying machine learning techniques to solve real-world problems. 
-
-### Key Technologies I Work With:
-- **Front-End:** React.js, Next.js
-- **Back-End:** Node.js, Django, Express.js, Flask
-- **Database:** PostgreSQL, MongoDB, MySQL
-- **Machine Learning:** TensorFlow, Scikit-Learn, Keras
-- **Version Control:** Git, GitHub
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-informational?style=flat-square&logo=firefox)](https://yourportfolio.com)
 
 ---
 
-## 💻 Projects:
-### 🔹 [Project 1: AI-Powered Blog Generator](https://github.com/yourusername/ai-blog-generator)
-An AI-based web platform that generates blog content based on emotions. Built using **Next.js**, **MongoDB**, **Auth0**, and integrated with **OpenAI's GPT-3** for natural language generation.
+### 🛠️ **Technologies & Tools:**
 
-### 🔹 [Project 2: Fault Detection System](https://github.com/yourusername/fault-detection)
-A machine learning-based system to detect and classify various faults in electrical transmission lines. Utilized **Python**, **Scikit-Learn**, and **Pandas** to build and train the model.
-
-### 🔹 [Project 3: Video Conferencing App - Callify](https://github.com/yourusername/callify)
-A video conferencing application built with **Next.js**, **Clerk**, **GetStream**, and **TailwindCSS**. Similar to Zoom/Google Meet, but focused on performance and simplicity.
-
----
-
-## 🌱 What I’m Learning:
-- Advanced machine learning models such as **transformers** and **graph neural networks**
-- Improving my skills in **UI/UX design** using **TailwindCSS** and **Figma**.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 📫 Let's Connect:
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+## 🔭 **What I’m Working On:**
+
+- 🌐 **Callify**: A video conferencing app built with **Next.js**, **Clerk**, **GetStream**, and **TailwindCSS**, offering seamless user interaction and real-time communication.
+  
+- 🧠 **AI Blog Generator**: Leveraging **GPT-3** for automatic blog generation with a focus on emotion-based content.
+
+- ⚡ **Fault Detection System**: A machine learning model to detect electrical transmission faults using data-driven approaches.
 
 ---
 
+## 📈 **GitHub Stats:**
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🌱 **Currently Learning:**
+
+- 📖 Exploring advanced machine learning algorithms (transformers, GNNs)
+- 🚀 Working on **cloud deployment** for scalable machine learning models
+
+---
+
+### 💼 **Professional Skills:**
+
+| **Area**              | **Skills**                                                                 |
+| --------------------- | ------------------------------------------------------------------------- |
+| **Front-End**         | React.js, Next.js, Vue.js, TailwindCSS, CSS, HTML                          |
+| **Back-End**          | Node.js, Django, Flask, Express.js                                         |
+| **Database**          | PostgreSQL, MongoDB, MySQL                                                 |
+| **DevOps**            | Docker, Kubernetes, AWS, Azure                                             |
+| **Machine Learning**  | TensorFlow, Scikit-Learn, Keras, Pandas                                    |
+
+---
+
+## 🌐 **Connect with Me:**
+
+- 💻 **GitHub**: [@yourusername](https://github.com/yourusername)
+- 💼 **LinkedIn**: [@yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- 🌍 **Portfolio**: [YourWebsite.com](https://yourwebsite.com)
+
+---
+
+### ✨ **Fun Fact:**
+
+I'm a huge fan of exploring cutting-edge tech and often dive into new programming languages for fun. 🎯
+
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
