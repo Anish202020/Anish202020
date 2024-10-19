@@ -1,40 +1,44 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# Hi there, I'm [Anish Kumar] 👋
+
+### 🚀 Full Stack Developer | 💡 Machine Learning Enthusiast | 🌐 Open Source Contributor
+
+---
+
+## 🔭 About Me:
+I am a passionate **Full Stack Developer** and **Machine Learning Developer** with experience in building dynamic web applications and developing intelligent systems. My expertise lies in building scalable, user-centric web platforms and applying machine learning techniques to solve real-world problems. 
+
+### Key Technologies I Work With:
+- **Front-End:** React.js, Next.js
+- **Back-End:** Node.js, Django, Express.js, Flask
+- **Database:** PostgreSQL, MongoDB, MySQL
+- **Machine Learning:** TensorFlow, Scikit-Learn, Keras
+- **Version Control:** Git, GitHub
+
+---
+
+## 💻 Projects:
+### 🔹 [Project 1: AI-Powered Blog Generator](https://github.com/yourusername/ai-blog-generator)
+An AI-based web platform that generates blog content based on emotions. Built using **Next.js**, **MongoDB**, **Auth0**, and integrated with **OpenAI's GPT-3** for natural language generation.
+
+### 🔹 [Project 2: Fault Detection System](https://github.com/yourusername/fault-detection)
+A machine learning-based system to detect and classify various faults in electrical transmission lines. Utilized **Python**, **Scikit-Learn**, and **Pandas** to build and train the model.
+
+### 🔹 [Project 3: Video Conferencing App - Callify](https://github.com/yourusername/callify)
+A video conferencing application built with **Next.js**, **Clerk**, **GetStream**, and **TailwindCSS**. Similar to Zoom/Google Meet, but focused on performance and simplicity.
+
+---
+
+## 🌱 What I’m Learning:
+- Advanced machine learning models such as **transformers** and **graph neural networks**
+- Improving my skills in **UI/UX design** using **TailwindCSS** and **Figma**.
+
+---
+
+## 📫 Let's Connect:
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** your.email@example.com
+
+---
 
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div>
-  <img src="https://komarev.com/ghpvc/?username=Anish202020&style=flat-square&color=blue" alt=""/>
-</div>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-## Hi there 👋
-
-<!--
-**Anish202020/Anish202020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
