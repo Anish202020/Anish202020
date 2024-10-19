@@ -67,11 +67,16 @@
 
 ---
 
-## 🌐 **Connect with Me:**
+## 🤝 Connect with Me
 
-- 💻 **GitHub**: [@yourusername](https://github.com/Anish202020)
-- 💼 **LinkedIn**: [@yourlinkedin](https://linkedin.com/in/yourlinkedin)
-- 🌍 **Portfolio**: [YourWebsite.com](https://anishkumar007.vercel.app/)
+Let's connect and collaborate! Feel free to reach out to me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anish-kumar-b47999213)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Anish202020)
+[![Email](https://img.shields.io/badge/Email-Contact-ff69b4?style=for-the-badge&logo=gmail)](mailto:anishkumarbdmi@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-Explore-green?style=for-the-badge&logo=linktree)](https://linktr.ee/AnishKumar2003)
+
+I'm always open to networking, discussing interesting projects, or just having a chat about technology. Let’s make something awesome together!
 
 ---
 
