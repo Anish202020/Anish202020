@@ -63,15 +63,11 @@
 | **Project Name** |  **Description** | **Links** |
 |------------------|----------------|-----------------|
 | **Callify** |  **Video Conferencing App** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/callify-meet/)** |
-| **AI Bloggy** |  **Software as a Service** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
+| **AI Bloggy** |  **Software as a Service** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/saas-next)** |
 | **Ease Expense** |  **Money Budget Tracker** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/easeexpense3.0)** |
 | **LookUp** |  **Search Engine** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/google-next)** |
 
-- 🌐 **Callify**: A video conferencing app built with **Next.js**, **Clerk**, **GetStream**, and **TailwindCSS**, offering seamless user interaction and real-time communication.
-  
-- 🧠 **AI Blog Generator**: Leveraging **GPT-3** for automatic blog generation with a focus on emotion-based content.
 
-- ⚡ **Fault Detection System**: A machine learning model to detect electrical transmission faults using data-driven approaches.
 
 
 ### 💡 Data Analysis & Machine Learning
