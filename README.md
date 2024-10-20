@@ -1,7 +1,7 @@
 # Hi there, I'm Anish Kumar 👋
 <p align="center">
   
-![Master Coder](https://github.com/Anish202020/Web-Development-Data/blob/main/Videos/readme.gif)
+![Master Coder](https://github.com/Anish202020/Web-Development-Data/blob/main/GIFs/readme.gif)
 
 </p>
 
