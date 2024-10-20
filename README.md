@@ -14,7 +14,8 @@
 
 ---
 
-### 🛠️ **Technologies & Tools:**
+## 🛠️ **Technologies & Tools:**
+### 🚀 Full Stack Development
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -37,6 +38,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 💡 Data Analysis & Machine Learning
+
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Heatmap](https://img.shields.io/badge/Heatmap-FF6F61?style=for-the-badge&logo=heatmap&logoColor=white)](https://seaborn.pydata.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![FER](https://img.shields.io/badge/FER-FF6F61?style=for-the-badge&logo=fer&logoColor=white)](https://github.com/justinshenk/fer)
 
 ---
 
