@@ -62,10 +62,10 @@
 
 | **Project Name** |  **Description** | **Links** |
 |------------------|----------------|-----------------|
-| Callify |  **Video Conferencing App** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
-| AI Bloggy |  **Software as a Service** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
-| Ease Expense |  **Money Budget Tracker** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
-| LookUp |  **Search Engine** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
+| **Callify** |  **Video Conferencing App** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/callify-meet/)** |
+| **AI Bloggy** |  **Software as a Service** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
+| **Ease Expense** |  **Money Budget Tracker** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/easeexpense3.0)** |
+| **LookUp** |  **Search Engine** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/google-next)** |
 
 - 🌐 **Callify**: A video conferencing app built with **Next.js**, **Clerk**, **GetStream**, and **TailwindCSS**, offering seamless user interaction and real-time communication.
   
@@ -78,9 +78,9 @@
 
 | **Project Name** |  **Description** | **Links** |
 |------------------|----------------|-----------------|
-| Weather Temperature Prediction |  **Neural Network** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
-| Wind Speed Predicition |  **LTSM ** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
-| Face Recognition Real Time |  **Fer Library** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
+| **Weather Temperature Prediction** |  **Neural Network** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Weather_Prediction_Model_21int68_Internship)** |
+| **Wind Speed Predicition** |  **LTSM** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Big-Data-Analysis-Mini-Project)** |
+| **Face Recognition Real Time** |  **Fer Library** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Real-Time-Emotion-Face-Detection)** |
 
 
 
