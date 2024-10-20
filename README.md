@@ -3,6 +3,7 @@
   
 ![Master Coder](https://github.com/Anish202020/Web-Development-Data/blob/main/GIFs/readme.gif)
 
+
 </p>
 
 ## 🚀 Full Stack Developer | 💡 Machine Learning Enthusiast | 🌐 Open Source Contributor
@@ -55,13 +56,37 @@
 
 ---
 
-## 🔭 **What I’m Working On:**
+## 🔭 **What Projects I Have Worked On:**
+
+### 🚀 Full Stack Development
+
+| **Project Name** |  **Description** | **Links** |
+|------------------|----------------|-----------------|
+| Callify |  **Video Conferencing App** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
+| AI Bloggy |  **Software as a Service** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
+| Ease Expense |  **Money Budget Tracker** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
+| LookUp |  **Search Engine** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
 
 - 🌐 **Callify**: A video conferencing app built with **Next.js**, **Clerk**, **GetStream**, and **TailwindCSS**, offering seamless user interaction and real-time communication.
   
 - 🧠 **AI Blog Generator**: Leveraging **GPT-3** for automatic blog generation with a focus on emotion-based content.
 
 - ⚡ **Fault Detection System**: A machine learning model to detect electrical transmission faults using data-driven approaches.
+
+
+### 💡 Data Analysis & Machine Learning
+
+| **Project Name** |  **Description** | **Links** |
+|------------------|----------------|-----------------|
+| Weather Temperature Prediction |  **Neural Network** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
+| Wind Speed Predicition |  **LTSM ** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
+| Face Recognition Real Time |  **Fer Library** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://aeternity.com/)** |
+
+
+
+
+
+
 
 ---
 
