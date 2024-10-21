@@ -117,6 +117,8 @@ Let's connect and collaborate! Feel free to reach out to me on the following pla
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anish-kumar-b47999213)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Anish202020)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AnishKumar-Creator)
+
 [![Email](https://img.shields.io/badge/Email-Contact-ff69b4?style=for-the-badge&logo=gmail)](mailto:anishkumarbdmi@gmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-Explore-green?style=for-the-badge&logo=linktree)](https://linktr.ee/AnishKumar2003)
 
