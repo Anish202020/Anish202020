@@ -60,7 +60,7 @@
 
 ### 🚀 Full Stack Development
 
-| **Project Name** |  **Description** | **GitHub Links** |
+| **Project Name** |  **Description** | **GitHub Link** |
 |------------------|----------------|-----------------|
 | **Callify** |  **Video Conferencing App** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/callify-meet/)** |
 | **AI Bloggy** |  **Software as a Service** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/saas-next)** |
@@ -72,7 +72,7 @@
 
 ### 💡 Data Analysis & Machine Learning
 
-| **Project Name** |  **Description** | **GitHub Links** |
+| **Project Name** |  **Description** | **GitHub Link** |
 |------------------|----------------|-----------------|
 | **Weather Temperature Prediction** |  **Neural Network** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Weather_Prediction_Model_21int68_Internship)** |
 | **Wind Speed Predicition** |  **LTSM** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Big-Data-Analysis-Mini-Project)** |
