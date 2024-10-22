@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-kumar-b47999213/)
 [![GitHub](https://img.shields.io/github/followers/Anish202020?label=Follow&style=social)](https://github.com/Anish202020)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AnishKumar-Creator)
 [![Linktree](https://img.shields.io/badge/Linktree-Online-informational?style=flat-square&logo=linktree&logoColor=white)](https://www.linktr.ee/AnishKumar2003)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Online-informational?style=flat-square&logo=firefox)](https://anishkumar007.vercel.app/)
 
