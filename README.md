@@ -104,8 +104,8 @@
 ### 💼 **Professional Skills:**
 
 | **Area**              | **Skills**                                                                 |
-| --------------------- | ------------------------------------------------------------------------- |
-| **Front-End**         | React.js, Next.js, TailwindCSS, CSS, HTML                          |
+| --------------------- | -------------------------------------------------------------------------  |
+| **Front-End**         | React.js, Next.js, TailwindCSS, CSS, HTML                                  |
 | **Back-End**          | Node.js, Django, Flask, Express.js                                         |
 | **Database**          | PostgreSQL, MongoDB, MySQL                                                 |
 | **Machine Learning**  | TensorFlow, Scikit-Learn, Keras, Pandas                                    |
@@ -113,10 +113,10 @@
 ---
 
 ## 📂 Portfolio
-<p>
+<a href="https://anishkumar007.vercel.app/">
   
 <img src="https://github.com/Anish202020/Web-Development-Data/blob/main/GIFs/Portfolio.gif" width="400" style="border-radius: 20px; border: 3px solid #000; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);">
- </p>
+ </a>
  <!-- Replace with your own GIF URL -->
 
 Explore my work and get to know more about me!
