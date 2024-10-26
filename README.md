@@ -112,6 +112,21 @@
 
 ---
 
+## 📂 Portfolio
+<p>
+  
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/GIFs/Portfolio.gif" width="400" style="border-radius: 20px; border: 3px solid #000; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);">
+ </p>
+ <!-- Replace with your own GIF URL -->
+
+Explore my work and get to know more about me!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=gitbook&logoColor=white)](https://anishkumar007.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-View%20Live-white?style=for-the-badge&logo=readthedocs&logoColor=white)](https://anishkumar.my.canva.site/)
+
+
+---
+
 ## 🤝 Connect with Me
 
 Let's connect and collaborate! Feel free to reach out to me on the following platforms:
