@@ -58,6 +58,13 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![FER](https://img.shields.io/badge/FER-FF6F61?style=for-the-badge&logo=fer&logoColor=white)](https://github.com/justinshenk/fer)
 
+### 💻 Websites for Deployment
+
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+
+
 ---
 
 ## 🔭 **What Projects I Have Worked On:**
