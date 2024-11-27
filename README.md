@@ -85,7 +85,8 @@
 
 | **Project Name** |  **Description** | **GitHub Link** |
 |------------------|----------------|-----------------|
-| **Weather Temperature Prediction** |  **Neural Network** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Weather_Prediction_Model_21int68_Internship)** |
+| **Pattern Detection and Classification** |  **LSTM & Fourier Transform** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Grid-India-Last-Year-Internship-Project)** |
+| **Weather Temperature Prediction** |  **Basic Neural Network** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Weather_Prediction_Model_21int68_Internship)** |
 | **Wind Speed Predicition** |  **LTSM** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Big-Data-Analysis-Mini-Project)** |
 | **Face Recognition Real Time** |  **Fer Library** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Real-Time-Emotion-Face-Detection)** |
 
