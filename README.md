@@ -152,7 +152,7 @@ Let's connect and collaborate! Feel free to reach out to me on the following pla
 
 I'm always open to networking, discussing interesting projects, or just having a chat about technology. Let’s make something awesome together!
 
----
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 
