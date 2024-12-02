@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg">
 
 # Hi there, I'm Anish Kumar 👋
-<p align="center">
+<p align="cente">
   
 ![Master Coder](https://github.com/Anish202020/Web-Development-Data/blob/main/GIFs/readme.gif)
 
