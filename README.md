@@ -85,7 +85,7 @@
 
 | **Project Name** |  **Description** | **GitHub Link** |
 |------------------|----------------|-----------------|
-| **Generative AI Meets Traditional NLP: A Hybrid Approach for Robust Text Generation and Analysis** |  **spaCy,GPT-2,PyTorch,TextBlob** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Generative-AI-Meets-Traditional-NLP-A-Hybrid-Approach-for-Robust-Text-Generation-and-Analysis)** |
+| **Generative AI Meets Traditional NLP** |  **spaCy,GPT-2,PyTorch & TextBlob** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Generative-AI-Meets-Traditional-NLP-A-Hybrid-Approach-for-Robust-Text-Generation-and-Analysis)** |
 | **Pattern Detection and Classification** |  **LSTM & Fourier Transform** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Grid-India-Last-Year-Internship-Project)** |
 | **Weather Temperature Prediction** |  **Basic Neural Network** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Weather_Prediction_Model_21int68_Internship)** |
 | **Wind Speed Predicition** |  **LTSM** | **[![GitHub Repository](https://img.shields.io/badge/Link-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish202020/Big-Data-Analysis-Mini-Project)** |
